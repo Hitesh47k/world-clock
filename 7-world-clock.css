@@ -1,0 +1,20 @@
+#outer{
+    height: 400px;
+    width: 100%;
+    background-color: rgba(130, 11, 177, 0.774);
+    margin-top: 100px;
+   display: flex;
+   justify-content: space-between;
+}
+.country{
+    height: 85%;
+    width: 30%;
+    color: rgba(184, 236, 40, 0.932);
+    background-color: aqua;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    margin: auto;
+    background-image: url('7-world-clock-images/world.jpeg');
+    background-size: cover;
+}
